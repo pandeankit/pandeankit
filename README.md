@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on .
 - 🤔 I’m looking for help with C Programming.
 - 💬 Ask me about HTML or CSS(Basic)
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I spent most of time listening music.
